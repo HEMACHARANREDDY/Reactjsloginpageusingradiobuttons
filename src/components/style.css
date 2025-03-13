@@ -1,0 +1,15 @@
+.tableform{
+   /* border: 1px solid red;*/
+
+}
+td{
+    padding: 5px;
+    border-radius: 10px;
+}
+button{
+    color: white;
+}
+.parent{
+    border: 1px solid red;
+    width: 80vw;
+}
